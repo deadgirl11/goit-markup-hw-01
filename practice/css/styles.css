@@ -1,0 +1,17 @@
+html {
+       box-sizing: border-box;
+    }
+    *,*::before,
+    *::after {
+            box-sizing: inherit;
+        }
+        
+        body {margin: 0;
+        font-family: Arial, sans-serif;
+        } 
+.submit-form{
+    min-width: 386px;
+    margin: 0 auto;
+    padding: 78px 62px;
+
+}
